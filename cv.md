@@ -23,4 +23,16 @@ I am a hard working, honest individual. I am always willing to learn new skills.
 * React JS (Basic) 
 * Git  
 * Figma 
+ 
+## Code Example 
+ 
+```js 
+const isPalindrome = (str) => { 
+  let strReverse = str.split('').reverse().join(''); 
+  return strReverse == str ? 'yes' : 'no'; 
+}; 
+let str = 'abcdedcba'; 
+const strPolindrome = isPalindrome(str); 
+console.log(`Палиндром - ${str}? ${strPolindrome}`); 
+``` 
 

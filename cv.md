@@ -35,4 +35,11 @@ let str = 'abcdedcba';
 const strPolindrome = isPalindrome(str); 
 console.log(`Палиндром - ${str}? ${strPolindrome}`); 
 ``` 
+ 
+## Education 
+ 
+* SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL 
+  + Industrial Electronics 
+* SENLA 
+  + Front-End Web Developer With React 
 

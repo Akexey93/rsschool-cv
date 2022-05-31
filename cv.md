@@ -48,3 +48,8 @@ console.log(`Палиндром - ${str}? ${strPolindrome}`);
 * [Help pets](https://save-life-pets.netlify.app/index.html) 
 * [To-Do](https://todo-senla-react.netlify.app/) 
 * [Movie app](https://top-movieapp.netlify.app/index.html)
+ 
+## Languages 
+ 
+- Russian - Native 
+- English - Pre-Intermediate
